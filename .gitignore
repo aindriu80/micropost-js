@@ -1,2 +1,5 @@
 node_modules
 build
+/.vs/VSWorkspaceState.json
+/.vs/Micropost JS/v16/.suo
+/.vs
