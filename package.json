@@ -10,7 +10,7 @@
     "json:server": "json-server --watch api/db.json"
 
   },
-  "author": "Brad Traversy",
+  "author": "Aindriu Mac Giolla Eoin",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
