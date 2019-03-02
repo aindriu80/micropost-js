@@ -14,6 +14,16 @@
       "title": "post five",
       "body": "post five",
       "id": 5
+    },
+    {
+      "title": "Post Tango",
+      "body": "Post Tango",
+      "id": 6
+    },
+    {
+      "title": "Post Shoe",
+      "body": "Post Shoe",
+      "id": 7
     }
   ]
 }
