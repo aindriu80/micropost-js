@@ -1,29 +1,14 @@
 {
   "posts": [
     {
-      "id": 2,
-      "title": "Post two",
-      "body": "This is post two"
+      "title": "Post three edited",
+      "body": "This is post three",
+      "id": 3
     },
     {
-      "id": 3,
-      "title": "Post three",
-      "body": "This is post three"
-    },
-    {
-      "title": "post five",
+      "title": "post five edited",
       "body": "post five",
       "id": 5
-    },
-    {
-      "title": "Post Tango",
-      "body": "Post Tango",
-      "id": 6
-    },
-    {
-      "title": "Post Shoe",
-      "body": "Post Shoe",
-      "id": 7
     }
   ]
 }
